@@ -1,15 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTS HD" tvg-name="EX-YU: RTS HD" tvg-logo="" group-title="EX-YU",EX-YU: RTS HD
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/2823.ts
-#EXTINF:-1 tvg-id="RTS 1" tvg-name="EX-YU: RTS 1" tvg-logo="" group-title="EX-YU",EX-YU: RTS 1
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/2301.ts
-#EXTINF:-1 tvg-id="RTS 2" tvg-name="EX-YU: RTS 2" tvg-logo="" group-title="EX-YU",EX-YU: RTS 2
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/2302.ts
-#EXTINF:-1 tvg-id="RTS 3" tvg-name="EX-YU: RTS 3" tvg-logo="" group-title="EX-YU",EX-YU: RTS 3
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/3227.ts
-#EXTINF:-1 tvg-id="RTV 1" tvg-name="EX-YU: RTV 1" tvg-logo="" group-title="EX-YU",EX-YU: RTV 1
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/3235.ts
-#EXTINF:-1 tvg-id="RTRS" tvg-name="EX-YU: RTRS" tvg-logo="" group-title="EX-YU",EX-YU: RTRS
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/2355.ts
-#EXTINF:-1 tvg-id="B92" tvg-name="EX-YU: B92" tvg-logo="" group-title="EX-YU",EX-YU: B92
-http://libero22.ddns.me:22333/live/IceTV-iliriahost/23YTFTYfgyhf456/2277.ts
+#EXTINF:-1,EXP SHkence test
+http://89.163.225.218:8080/live/testt/testtt/1.ts
+ 
+ 
+#EXTINF:-1,EXP Natyre test
+http://89.163.225.218:8080/live/testt/testtt/2.ts
+ 
+ 
+ 
+#EXTINF:-1,Aksion
+http://194.88.104.95:25461/live/mdEYBHN7MKF/srvM1Vfkr3/1328.ts
